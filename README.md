@@ -1,9 +1,9 @@
 == README
 
 
-* This is the first file edited and sotred in a branch for the local Git Repository 
+* This is the first file edited and stored in a branch for the local Git Repository, then pushed to the Mater repositry on GitHUB 
 
-* The Rails files in this project are a colloection of samples from Micheal Hartl and  the sample CZ-DB template.
+* The Rails files in this project are a collection of samples from Micheal Hartl and  the sample CZ-DB template.
 
 
 Please feel free to use a different markup language if you do not plan to run
